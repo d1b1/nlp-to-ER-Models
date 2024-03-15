@@ -26,3 +26,10 @@ Cypher code
 
 #### Resources & References
 - https://www.geeksforgeeks.org/relationship-extraction-in-nlp/
+
+### Next Steps
+Once this is working and generating the expected relationships, the next steps
+are to build this into a library, that will used AI observability patterns to 
+scale the hardcode system prompts to get better results. The goal is to generate a 
+service that will convert statement into micro-graphs that can be integrated into
+a larger single person networking graph.
